@@ -1,8 +1,7 @@
-# Vue-quick-diff
+# demo
 
----
+![](./docs/demo/1.jpg) 
 
-<center><img src="./docs/demo/1.jpg"></center> 
 A component that can quickly see the difference between two pictures
 
 ## Installation
